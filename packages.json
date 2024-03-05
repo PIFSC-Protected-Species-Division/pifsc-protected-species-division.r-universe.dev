@@ -30,5 +30,9 @@
     {
     "package": "LTabundR",
     "url": "https://github.com/PIFSC-Protected-Species-Division/LTabundR",
+    },
+    {
+    "package": "crputils",
+    "url": "https://github.com/PIFSC-Protected-Species-Division/crputils",
     }
 ]

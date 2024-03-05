@@ -1,0 +1,14 @@
+[
+    {
+        "package": "crawlUtils",
+        "url": "https://github.com/dsjohnson/crawlUtils"
+    },
+    {
+        "package": "moveMMPP",
+        "url": "https://github.com/dsjohnson/moveMMPP"
+    },
+    {
+        "package": "expQ2",
+        "url": "https://github.com/dsjohnson/expQ2"
+    }
+]

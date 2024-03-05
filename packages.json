@@ -10,5 +10,25 @@
     {
         "package": "expQ2",
         "url": "https://github.com/dsjohnson/expQ2"
+    },
+    {
+	"package": "crawl",
+	"url": "https://github.com/NMML/crawl"
+    },
+    {
+    "package": "markedTMB",
+	"url": "https://github.com/jlaake/markedTMB",
+	"subdir": "markedTMB",
+	"branch" : "master"
+    },
+    {
+    "package": "marked",
+	"url": "https://github.com/jlaake/marked",
+	"subdir": "marked",
+	"branch" : "devel"
+    },
+    {
+    "package": "LTabundR",
+    "url": "https://github.com/PIFSC-Protected-Species-Division/LTabundR",
     }
 ]

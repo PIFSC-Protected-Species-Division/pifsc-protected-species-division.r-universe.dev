@@ -34,5 +34,9 @@
     {
     "package": "crputils",
     "url": "https://github.com/PIFSC-Protected-Species-Division/crputils",
+    },
+    {
+    "package": "picMaps",
+    "url": "https://github.com/PIFSC-Protected-Species-Division/picMaps",
     }
 ]

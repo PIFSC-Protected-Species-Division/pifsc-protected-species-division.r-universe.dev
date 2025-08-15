@@ -10,5 +10,9 @@
     {
         "package": "picMaps",
         "url": "https://github.com/PIFSC-Protected-Species-Division/picMaps"
+    },
+    {
+        "package": "dmsextraLite",
+        "url": "https://github.com/PIFSC-Protected-Species-Division/dmsextraLite"
     }
 ]
